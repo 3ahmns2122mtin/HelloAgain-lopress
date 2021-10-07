@@ -48,7 +48,7 @@ Für den Export in WebGL muss das Modul WebGL in Unity installiert sein.
 - [x] Zusätzliche Text und Sprite Elemente einfügen und platzieren
 - [x] Text visuell ändern: color, font, font style, etc.
 - [ ] Textmesh pro GameObject einfügen und manipulieren 
-- [ ] Color Tint Playmode einstellen
+- [x] Color Tint Playmode einstellen
 
 ### Lessons Learned:
 | Neu gelernt | Wiederholung | Vertiefung | Lernstoff                                                                             |
