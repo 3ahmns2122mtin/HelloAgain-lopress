@@ -64,4 +64,7 @@ Für den Export in WebGL muss das Modul WebGL in Unity installiert sein.
 |     x        |              |            | WebGL auf GitHub Pages veröffentlichen                                                |
 
 
+### Limitations (Einschränkungen)
+
+
 Copyright by lopress
